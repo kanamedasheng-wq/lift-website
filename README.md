@@ -14,4 +14,4 @@ npm run dev
 
 ## Deployment
 
-Vercelへ接続すると、`main` ブランチへの更新が自動で公開されます。
+Vercelの既存 `lift-website` プロジェクトと接続し、`main` ブランチへの更新を自動公開します。
